@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18647088992",
+    "project_id": "laptopstore-915bc",
+    "storage_bucket": "laptopstore-915bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18647088992:android:5ca26aa756c9f37ef6e805",
+        "android_client_info": {
+          "package_name": "com.example.laptopstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0YQD4AhdjCh8Eaq-kmXwVkfNz4Ew2b1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
